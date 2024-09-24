@@ -30,23 +30,24 @@ Este proyecto tiene como objetivo construir un modelo de regresión lineal simpl
 
 Sigue los siguientes pasos para clonar y ejecutar este proyecto:
 
-***Clona el repositorio***
+***Clona el repositorio***  
 git clone https://github.com/tu-usuario/prediccion-precios-viviendas.git
 
-***Entra en el directorio del proyecto***
+***Entra en el directorio del proyecto***  
 cd prediccion-precios-viviendas
 
-***Crea un entorno virtual (opcional pero recomendado)***
+***Crea un entorno virtual (opcional pero recomendado)***  
 python -m venv venv
 
-***Activa el entorno virtual***
-*En Windows:*
-venv\Scripts\activate
-*En macOS/Linux:*
-source venv/bin/activate
+***Activa el entorno virtual***  
+*En Windows:*  
+venv\Scripts\activate  
 
-***Instala las dependencias***
-pip install -r requirements.txt
+*En macOS/Linux:*  
+source venv/bin/activate  
+
+***Instala las dependencias***  
+pip install -r requirements.txt  
 
 🚀 Uso
 Abre el archivo regresion_lineal.ipynb con Jupyter Notebook:
