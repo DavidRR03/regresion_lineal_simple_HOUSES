@@ -8,13 +8,13 @@ Este proyecto es una implementación de un modelo de **Regresión Lineal Simple*
 ---
 
 ## 📋 Tabla de Contenidos
-1. [Descripción](#📝-Descripción)
-2. [Instalación](#🛠-Instalación)
-3. [Uso](#🚀-Uso)
-4. [Visualizaciones](#📊-Visualizaciones)
-5. [Resultados](#📈-Resultados)
-6. [Contribuciones](#🤝-Contribuciones)
-7. [Licencia](#📝-Licencia)
+1. #📝-Descripción
+2. #🛠-Instalación
+3. #🚀-Uso
+4. #📊-Visualizaciones
+5. #📈-Resultados
+6. #🤝-Contribuciones
+7. #📝-Licencia
 
 ---
 
@@ -26,13 +26,10 @@ Este proyecto tiene como objetivo construir un modelo de regresión lineal simpl
 - Gráficos visuales de los resultados del modelo.
 - Métricas de evaluación del rendimiento mediante el **R²**.
 
----
-
 ## 🛠 Instalación
 
 Sigue los siguientes pasos para clonar y ejecutar este proyecto:
 
-``bash
 # Clona el repositorio
 git clone https://github.com/tu-usuario/prediccion-precios-viviendas.git
 
@@ -54,8 +51,7 @@ pip install -r requirements.txt
 🚀 Uso
 Abre el archivo regresion_lineal.ipynb con Jupyter Notebook:
 
-``bash
-Copiar código
+Copiar código:
 jupyter notebook regresion_lineal.ipynb
 Carga el conjunto de datos de vivienda. Puedes modificar el archivo de datos en la celda correspondiente.
 
@@ -68,14 +64,13 @@ Ejemplo de gráfico generado:
 
 <img width="342" alt="grafico_ejemplo" src="https://github.com/user-attachments/assets/366deee8-a93e-4c91-961f-dc81d2c970d2">
 
-
-
+  
 📈 Resultados
 El rendimiento del modelo se mide a través de:
 
 R² (Coeficiente de Determinación): Evalúa qué tan bien los valores predichos se ajustan a los datos reales.
 
-
+  
 🤝 Contribuciones
 ¡Las contribuciones son bienvenidas! Si quieres mejorar el proyecto o corregir algún error, por favor:
 
@@ -84,11 +79,14 @@ Crea una nueva rama (git checkout -b mejora/tu-feature).
 Realiza tus cambios y haz un commit (git commit -m 'Agrega tu-feature').
 Envía un pull request.
 
+  
 📝 Licencia
 Este proyecto está libre de ninguna licencia. Si se detecta algún error en este sentido, por favor, házmelo saber.
 
+  
 📧 Contacto
 Para cualquier duda o sugerencia, no dudes en contactarme a través de mi correo: david_rr03@hotmail.com
 
+  
 🌟 Agradecimientos
 Este proyecto ha sido posible gracias al aprendizaje de Regresión Lineal en diversos recursos educativos online y la documentación de scikit-learn.
