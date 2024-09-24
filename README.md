@@ -1,6 +1,6 @@
 # 📈 Predicción de Precios de Viviendas con Regresión Lineal Simple
 
-<center>![image](https://github.com/user-attachments/assets/0a89b770-5edd-4412-9d26-e864461b044f)</center>
+<center> ![image](https://github.com/user-attachments/assets/0a89b770-5edd-4412-9d26-e864461b044f) </center>
 
 
 Este proyecto es una implementación de un modelo de **Regresión Lineal Simple** para predecir precios de viviendas basados en un conjunto de datos proporcionado. Utiliza **Python** y **Jupyter Notebook** como entorno de desarrollo y modelado. ¡Explora cómo los precios de las viviendas están relacionados con las características que los definen!
