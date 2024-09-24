@@ -8,13 +8,13 @@ Este proyecto es una implementación de un modelo de **Regresión Lineal Simple*
 ---
 
 ## 📋 Tabla de Contenidos
-1. #📝-Descripción
-2. #🛠-Instalación
-3. #🚀-Uso
-4. #📊-Visualizaciones
-5. #📈-Resultados
-6. #🤝-Contribuciones
-7. #📝-Licencia
+1. 📝 Descripción
+2. 🛠 Instalación
+3. 🚀 Uso
+4. 📊 Visualizaciones
+5. 📈 Resultados
+6. 🤝 Contribuciones
+7. 📝 Licencia
 
 ---
 
@@ -30,34 +30,33 @@ Este proyecto tiene como objetivo construir un modelo de regresión lineal simpl
 
 Sigue los siguientes pasos para clonar y ejecutar este proyecto:
 
-# Clona el repositorio
+***Clona el repositorio***
 git clone https://github.com/tu-usuario/prediccion-precios-viviendas.git
 
-# Entra en el directorio del proyecto
+***Entra en el directorio del proyecto***
 cd prediccion-precios-viviendas
 
-# Crea un entorno virtual (opcional pero recomendado)
+***Crea un entorno virtual (opcional pero recomendado)***
 python -m venv venv
 
-# Activa el entorno virtual
-# En Windows:
+***Activa el entorno virtual***
+*En Windows:*
 venv\Scripts\activate
-# En macOS/Linux:
+*En macOS/Linux:*
 source venv/bin/activate
 
-# Instala las dependencias
+***Instala las dependencias***
 pip install -r requirements.txt
 
 🚀 Uso
 Abre el archivo regresion_lineal.ipynb con Jupyter Notebook:
 
-Copiar código:
-jupyter notebook regresion_lineal.ipynb
-Carga el conjunto de datos de vivienda. Puedes modificar el archivo de datos en la celda correspondiente.
+- Copiar código de jupyter notebook regresion_lineal.ipynb
+- Carga el conjunto de datos de vivienda. Puedes modificar el archivo de datos en la celda correspondiente.
+- Ejecuta todas las celdas del notebook para entrenar el modelo y ver los resultados.
+  
 
-Ejecuta todas las celdas del notebook para entrenar el modelo y ver los resultados.
-
-📊 Visualizaciones
+📊 Visualizaciones  
 Durante la ejecución del modelo, se generan gráficos para analizar la relación entre la variable independiente (por ejemplo, el tamaño) y los precios de las viviendas.
 
 Ejemplo de gráfico generado:  
@@ -65,13 +64,13 @@ Ejemplo de gráfico generado:
 <img width="342" alt="grafico_ejemplo" src="https://github.com/user-attachments/assets/366deee8-a93e-4c91-961f-dc81d2c970d2">
 
   
-📈 Resultados
+📈 Resultados  
 El rendimiento del modelo se mide a través de:
 
 R² (Coeficiente de Determinación): Evalúa qué tan bien los valores predichos se ajustan a los datos reales.
 
   
-🤝 Contribuciones
+🤝 Contribuciones  
 ¡Las contribuciones son bienvenidas! Si quieres mejorar el proyecto o corregir algún error, por favor:
 
 Haz un fork del repositorio.
@@ -80,13 +79,13 @@ Realiza tus cambios y haz un commit (git commit -m 'Agrega tu-feature').
 Envía un pull request.
 
   
-📝 Licencia
+📝 Licencia  
 Este proyecto está libre de ninguna licencia. Si se detecta algún error en este sentido, por favor, házmelo saber.
 
   
-📧 Contacto
+📧 Contacto  
 Para cualquier duda o sugerencia, no dudes en contactarme a través de mi correo: david_rr03@hotmail.com
 
   
-🌟 Agradecimientos
+🌟 Agradecimientos  
 Este proyecto ha sido posible gracias al aprendizaje de Regresión Lineal en diversos recursos educativos online y la documentación de scikit-learn.
