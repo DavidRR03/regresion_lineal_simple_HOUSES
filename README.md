@@ -64,7 +64,8 @@ Ejecuta todas las celdas del notebook para entrenar el modelo y ver los resultad
 📊 Visualizaciones
 Durante la ejecución del modelo, se generan gráficos para analizar la relación entre la variable independiente (por ejemplo, el tamaño) y los precios de las viviendas.
 
-Ejemplo de gráfico generado:
+Ejemplo de gráfico generado:  
+
 <img width="342" alt="grafico_ejemplo" src="https://github.com/user-attachments/assets/366deee8-a93e-4c91-961f-dc81d2c970d2">
 
 
